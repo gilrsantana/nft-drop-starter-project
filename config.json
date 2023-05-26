@@ -1,0 +1,22 @@
+{
+  "tokenStandard": "nft",
+  "number": 3,
+  "symbol": "SCAR_NFT",
+  "sellerFeeBasisPoints": 1,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "6peCnUM956C59wzm2fcPXSyaEZGozg6cks67DF1VVYB9",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "nft_storage",
+  "ruleSet": null,
+  "awsConfig": null,
+  "nftStorageAuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweGM2MkY2NTBFOUZiODZDZDIwMDQ2OTY2NjBCMEJFODRGNjJBOTZCYTciLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY4NTA3Nzk1NDQ5NywibmFtZSI6ImdpbHJzYW50YW5hIn0.8SYaet_brjcWLsv2iMfDQaozUfL0PKELr38y9TiD0qo",
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null
+}

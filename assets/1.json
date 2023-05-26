@@ -1,0 +1,21 @@
+{
+    "name": "THE_CITY_NFT",
+    "symbol": "SCAR_NFT",
+    "description": "Coleção de 3 números na blockchain. Este é o número 2/3.",
+    "image": "1.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "0"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+  

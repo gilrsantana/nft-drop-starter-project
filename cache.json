@@ -1,0 +1,34 @@
+{
+  "program": {
+    "candyMachine": "",
+    "candyGuard": "",
+    "candyMachineCreator": "",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "SUPERCAR_GRS",
+      "image_hash": "c674804b6fd02d992134f4821fa1b5172ad9c2246b936dcd1f99087e13f28a05",
+      "image_link": "https://nftstorage.link/ipfs/bafybeicbdydvgoycxf5dwksezrtaqhpiljouvidp2lf472nuc2sypyz2ju/0.png",
+      "metadata_hash": "902837cf596a277933520bac1b47b310e060eeefaeb8352d04ff0033e54993bd",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeigdau3svanu6kjqwsuwubrtvnt4xak7st5wgmvmpkh3oa4hb2yskq/0.json",
+      "onChain": false
+    },
+    "1": {
+      "name": "THE_CITY_NFT",
+      "image_hash": "d2574ed9a01c2711d138f1dfc59ef25831a33b7f02c09e0e4c2363db1af79a91",
+      "image_link": "https://nftstorage.link/ipfs/bafybeicbdydvgoycxf5dwksezrtaqhpiljouvidp2lf472nuc2sypyz2ju/1.png",
+      "metadata_hash": "2d2efa59e3de0ffcdce05b19d0a9ea2d6bbddffd70076b2752a0e5e45a728882",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeigdau3svanu6kjqwsuwubrtvnt4xak7st5wgmvmpkh3oa4hb2yskq/1.json",
+      "onChain": false
+    },
+    "2": {
+      "name": "ANOTHER_WORLD_NFT",
+      "image_hash": "5679e8785ba897dbc1c162394e8e2258d7af888bddcf016b398ba79955625e03",
+      "image_link": "https://nftstorage.link/ipfs/bafybeicbdydvgoycxf5dwksezrtaqhpiljouvidp2lf472nuc2sypyz2ju/2.png",
+      "metadata_hash": "3cd919145fb6d00728803499d4e3313e4553f63dfd796e5c783cdd332740365f",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeigdau3svanu6kjqwsuwubrtvnt4xak7st5wgmvmpkh3oa4hb2yskq/2.json",
+      "onChain": false
+    }
+  }
+}
